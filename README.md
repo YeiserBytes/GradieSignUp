@@ -1,32 +1,20 @@
-# Welcome to Codewell! 👋
+# Gradie: Beautiful Gradients in Seconds
 
 ![image](https://github.com/CubeMyst/GradieSignUp/assets/97372908/363cc273-c487-4c34-bc4b-5c4d6c4d83ce)
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
+Gradie is a simple and elegant login page template that allows users to create an account with ease. The project features a visually appealing design with a focus on gradients, providing users with a seamless experience.
 
-Free or paid, all templates are high quality and will make great portfolio pieces.
+## Features
 
-### I've completed the challenge, now what?
+- **Gradient Background:** Enjoy a visually stunning login page with a gradient background that transitions from amber to rose and ends in slate tones.
+- **Responsive Design:** The layout is designed to be responsive, ensuring a consistent and engaging user experience across various devices.
+- **Secure Login:** The login form includes fields for email and password, ensuring a secure and straightforward login process.
+- **Terms & Conditions:** Users are prompted to agree to the terms and conditions before creating an account, with a convenient link for more information.
 
-We recommend using one of these two websites to deploy your projects
+## Usage
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Run the application with `npm start`.
 
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
-
-
-### Submit your solution to Codewell
-
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
-
-### Join our community on Slack
-
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
-
-### Fonts Used
-
-https://fonts.google.com/specimen/Roboto
-
-
+Feel free to customize the template to suit your project's needs. Create an account with Gradie, and start building your own beautiful login pages!
