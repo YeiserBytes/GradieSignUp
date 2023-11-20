@@ -15,12 +15,12 @@ export default function App() {
   }
 
   return (
-    <main className="min-h-screen grid place-content-center bg-gradient-to-tr from-amber-200 via-rose-300 to-slate-100">
+    <main className="min-h-screen grid place-content-center bg-gradient-to-tr from-amber-200 via-rose-300 to-slate-100 font-sans">
       <div className="flex max-md:flex-col overflow-hidden md:rounded-[12px] bg-white">
         <section className="flex flex-col pt-10 md:h-full overflow-hidden relative bg-[#003142] text-[#80AEE6]">
           <header className="flex flex-col items-center gap-3 -mb-32">
             <h1 className="text-4xl font-bold text-white">Gradie</h1>
-            <p>Beautyful gradients in seconds</p>
+            <p>Beautiful gradients in seconds</p>
           </header>
           
           <img src={iphoneMockup} alt="Mockup by Iphone" className='w-[450px]' />
@@ -33,7 +33,7 @@ export default function App() {
           <form className="flex flex-col gap-5" onSubmit={(e) => handleClear(e)}>
             <label className="flex flex-col font-bold gap-2">
               Email
-              <input type="text" className='outline-none shadow-inner rounded-md font-normal p-4 border-[1px] border-gray-300 w-full' placeholder="John@example.com" />
+              <input type="text" className='outline-none shadow-inner rounded-md font-normal p-4 border-[1px] border-gray-300 w-full' placeholder="john@example.com" />
             </label>
             <label className="flex flex-col font-bold gap-2">
               Password
