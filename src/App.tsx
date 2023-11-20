@@ -1,7 +1,13 @@
 import { FormEvent } from 'react'
 import iphoneMockup from './assets/iPhone Mockup.png'
+import useSEO from './hooks/useSEO'
 
 export default function App() {
+  useSEO({
+    title: 'Gradien',
+    description: 'Login page'
+  })
+  
   const handleClear = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     const form = e.currentTarget;
