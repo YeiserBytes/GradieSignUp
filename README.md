@@ -1,5 +1,6 @@
-
 # Welcome to Codewell! 👋
+
+![image](https://github.com/CubeMyst/GradieSignUp/assets/97372908/363cc273-c487-4c34-bc4b-5c4d6c4d83ce)
 
 Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
 
