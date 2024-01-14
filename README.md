@@ -1,6 +1,6 @@
 # Gradie: Beautiful Gradients in Seconds
 
-![image](https://github.com/CubeMyst/GradieSignUp/assets/97372908/363cc273-c487-4c34-bc4b-5c4d6c4d83ce)
+![image](./screenshot.png)
 
 Gradie is a simple and elegant login page template that allows users to create an account with ease. The project features a visually appealing design with a focus on gradients, providing users with a seamless experience.
 
